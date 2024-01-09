@@ -15,7 +15,7 @@ spec:
         app: go-server-ci
     spec:
       containers:
-      - image: Cartilage100/go-server-ci
+      - image: m20012/go-server-ci
         name: go-server-ci
 ---
 apiVersion: v1
